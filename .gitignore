@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific ignores
+data/
+*.csv
+*.zip
+.DS_Store
+.venv/
+
+# Generated model artifacts
+models/*.pkl
+models/*.npy
