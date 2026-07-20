@@ -225,5 +225,4 @@ data/
 .venv/
 
 # Generated model artifacts
-models/*.pkl
 models/*.npy
